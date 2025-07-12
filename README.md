@@ -43,7 +43,7 @@ View Reports: Navigate to the dashboard sheet to analyze sales trends and perfor
 
 Export/Share: Export reports as PDF or Excel files, or configure automatic emailing via VBA. 📤
 
-Data Format Requirements 📋
+## 📋 Data Format Requirements 
 Date of sale (e.g., MM/DD/YYYY) 📅
 
 Salesperson name or ID 👤
