@@ -65,7 +65,7 @@ Product or service sold 🛍️
 Quantity sold 🔢
 
 Sales amount (in USD or local currency) 💵
-
+ 
 Region or territory (optional) 🌍
 
 Make sure columns are consistently labeled and free from blank rows.
