@@ -31,7 +31,7 @@ VBA Macros for automation 📝
 Excel formulas and PivotTables 📐
 
 Conditional formatting and charts for visualization 🎨
----
+**---
 
 ## 🧠 Key Insights
 
