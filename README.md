@@ -9,6 +9,7 @@ The Sales Performance Tracker is an Excel-based automation tool designed to stre
 
 ---
 
+
 ## 📂Features ✨
 Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
 
@@ -21,6 +22,17 @@ Data Validation & Cleaning: Built-in checks to ensure data accuracy and consiste
 Scheduled Reports: Automated generation and emailing of sales reports on a daily, weekly, or monthly basis. 📅📧
 
 User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
+
+----
+
+## 📈 Sample Data
+
+| Salesperson | Region | Month     | Sales ($) | Target ($) | % to Target | Performance |
+|-------------|--------|-----------|-----------|-------------|--------------|-------------|
+| Alice       | East   | Jan 2024  | 15000     | 12000       | 1.25         | Top         |
+| Bob         | West   | Jan 2024  | 9500      | 10000       | 0.95         | At Risk     |
+| Charlie     | East   | Jan 2024  | 12000     | 11000       | 1.09         | Good        |
+
 ---
 
 ## 🛠️ Technologies Used
@@ -76,7 +88,9 @@ Contributions and improvements are welcome! Please open an issue or submit a pul
 ```
 📁 SalesPerformance-Tracker
 └── README.md
-```
+
+
+
 
 ## 📬 Contact
 
