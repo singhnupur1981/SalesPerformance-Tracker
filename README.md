@@ -8,7 +8,13 @@
 The Sales Performance Tracker is an Excel-based automation tool designed to streamline the process of tracking and analyzing sales data. By leveraging Excel macros and formulas, this tool automates data consolidation, reporting, and visualization to help sales teams monitor performance efficiently and make informed decisions. ⚙️📈
 
 ---
+## 📁 Project Structure
 
+```
+📁 SalesPerformance-Tracker
+└── README.md
+
+--------
 
 ## 📂Features ✨
 Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
@@ -81,13 +87,7 @@ Customize settings (e.g., email recipients, data file paths) in the Settings she
 
 ## 🤝 Contributing 
 Contributions and improvements are welcome! Please open an issue or submit a pull request with your enhancements. 💡
-
-
-## 📁 Project Structure
-
-```
-📁 SalesPerformance-Tracker
-└── README.md
+-----
 
 
 
