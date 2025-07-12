@@ -33,34 +33,6 @@ Excel formulas and PivotTables 📐
 Conditional formatting and charts for visualization 🎨
 **---
 
-## 🧠 Key Insights
-
-- Smokers had higher total claim amounts than non-smokers.
-- Patients with chronic diseases filed more expensive claims.
-- Older adults (60+) tend to have larger claims.
-- Midwest and Southeast regions showed greater claim variability.
-- Claims were showing as they were right-skewed — few patients drive most of the cost.
-
----
-
-## 🛠️ Tools Used
-
-- Python 3
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
----
-
-## 📁 Project Structure
-
-```
-📁 healthcare-insurance-analysis
-├── healthcare_insurance_data.csv
-├── insurance_analysis.ipynb
-└── README.md
-```
 
 ## 📬 Contact
 
