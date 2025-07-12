@@ -90,9 +90,13 @@ Enable macros when prompted. ⚠️
 
 Customize settings (e.g., email recipients, data file paths) in the Settings sheet. ⚙️
 
-
-
 -----
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/youtube-engagement-analytics.git
+cd youtube-engagement-analytics
 
 ## 📬 Contact
 
