@@ -67,7 +67,7 @@ Enable macros when prompted. ⚠️
 
 Customize settings (e.g., email recipients, data file paths) in the Settings sheet. ⚙️
 
-## Contributing 🤝
+## 🤝 Contributing 
 Contributions and improvements are welcome! Please open an issue or submit a pull request with your enhancements. 💡
 
 License 📄
