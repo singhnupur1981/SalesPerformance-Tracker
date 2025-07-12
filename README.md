@@ -73,7 +73,14 @@ Contributions and improvements are welcome! Please open an issue or submit a pul
 License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact 📬
-For questions or support, please contact:
-Your Name – your.email@example.com
+## 📁 Project Structure
+
+```
+📁 SalesPerformance-Tracker
+└── README.md
+```
+
+## 📬 Contact
+
+Made by **Nupur Singh**  
 
