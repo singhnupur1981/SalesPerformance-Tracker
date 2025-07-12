@@ -16,17 +16,17 @@ The Sales Performance Tracker is an Excel-based automation tool designed to stre
 --------
 
 ## 📂Features ✨
-Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
+- Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
 
-Dynamic Dashboards: Interactive charts and pivot tables that update automatically based on the latest data. 📊
+- Dynamic Dashboards: Interactive charts and pivot tables that update automatically based on the latest data. 📊
 
-Performance Metrics: Calculates key sales metrics such as total sales, growth rates, targets vs. actuals, and top performers. 🎯
+- Performance Metrics: Calculates key sales metrics such as total sales, growth rates, targets vs. actuals, and to- p performers. 🎯
 
-Data Validation & Cleaning: Built-in checks to ensure data accuracy and consistency. ✅🧹
+- Data Validation & Cleaning: Built-in checks to ensure data accuracy and consistency. ✅🧹
 
-Scheduled Reports: Automated generation and emailing of sales reports on a daily, weekly, or monthly basis. 📅📧
+- Scheduled Reports: Automated generation and emailing of sales reports on a daily, weekly, or monthly basis. 📅📧
 
-User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
+- User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
 
 ----
 
