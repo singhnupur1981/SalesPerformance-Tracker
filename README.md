@@ -9,24 +9,18 @@ The Sales Performance Tracker is an Excel-based automation tool designed to stre
 
 ---
 
-## 📂 Dataset Overview
+## 📂Features ✨
+Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
 
-The dataset contains synthetic records of 200 patients and includes:
+Dynamic Dashboards: Interactive charts and pivot tables that update automatically based on the latest data. 📊
 
-| Column Name        | Description                            |
-|--------------------|----------------------------------------|
-| `Patient_ID`       | A unique identifier for each patient     |
-| `Age`              | Age of the patient                     |
-| `Gender`           | Gender either Male / Female                          |
-| `Region`           | Region of residence (4 regions)        |
-| `Smoker`           | Whether the patient smokes             |
-| `BMI`              | Body Mass Index of the patient                       |
-| `Chronic_Disease`  | Indicates chronic illness (Yes/No)     |
-| `Claim_Amount`     | Insurance claim amount                 |
-| `Approved_Amount`  | Final approved insurance amount        |
-| `Diagnosis`        | Type of diagnosis (e.g., Diabetes)     |
-| `Claim_Status`     | Status of claim (Approved/Rejected)    |
+Performance Metrics: Calculates key sales metrics such as total sales, growth rates, targets vs. actuals, and top performers. 🎯
 
+Data Validation & Cleaning: Built-in checks to ensure data accuracy and consistency. ✅🧹
+
+Scheduled Reports: Automated generation and emailing of sales reports on a daily, weekly, or monthly basis. 📅📧
+
+User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
 ---
 
 ## 📊 Visualizations
