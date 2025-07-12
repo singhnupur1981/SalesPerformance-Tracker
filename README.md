@@ -58,7 +58,7 @@ Region or territory (optional) 🌍
 
 Make sure columns are consistently labeled and free from blank rows.
 
-Installation 🛠️
+## 🛠️ Installation 
 Download or clone the repository. 📥
 
 Open Sales_Performance_Tracker.xlsm in Excel. 📂
