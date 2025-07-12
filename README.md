@@ -10,7 +10,6 @@ The Sales Performance Tracker is an Excel-based automation tool designed to stre
 ---
 ## 📁 Project Structure
 
-```
 📁 SalesPerformance-Tracker
 └── README.md
 
