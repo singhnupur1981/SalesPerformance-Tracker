@@ -23,17 +23,14 @@ Scheduled Reports: Automated generation and emailing of sales reports on a daily
 User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
 ---
 
-## 📊 Visualizations
+## 🛠️ Technologies Used
+Microsoft Excel (Office 365 or later recommended) 🧮
 
-This project includes the following visual analyses:
+VBA Macros for automation 📝
 
-1. Boxplot – This shows the claim amount distribution by region  
-2. Bar Chart – This shows the total claim amount by smoker vs non-smoker  
-3. Scatter Plot – This shows the Age vs claim amount, colored by chronic disease  
-4. Histogram – This shows the distribution of claim amounts  
-5. Pie Chart – This shows the gender proportion in the dataset  
-6. Line Plot – This shows the average claim amount by age group
+Excel formulas and PivotTables 📐
 
+Conditional formatting and charts for visualization 🎨
 ---
 
 ## 🧠 Key Insights
