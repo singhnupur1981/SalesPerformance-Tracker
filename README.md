@@ -31,58 +31,8 @@ VBA Macros for automation 📝
 Excel formulas and PivotTables 📐
 
 Conditional formatting and charts for visualization 🎨
-**---
 
-
-## 📬 Contact
-
-Made by **Nupur Singh**  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Features ✨
-Automated Data Import: Easily import sales data from multiple sources into a centralized workbook. 📥
-
-Dynamic Dashboards: Interactive charts and pivot tables that update automatically based on the latest data. 📊
-
-Performance Metrics: Calculates key sales metrics such as total sales, growth rates, targets vs. actuals, and top performers. 🎯
-
-Data Validation & Cleaning: Built-in checks to ensure data accuracy and consistency. ✅🧹
-
-Scheduled Reports: Automated generation and emailing of sales reports on a daily, weekly, or monthly basis. 📅📧
-
-User-Friendly Interface: Simple buttons and forms to trigger automation without requiring Excel expertise. 🖱️👌
-
-Technologies Used 🛠️
-Microsoft Excel (Office 365 or later recommended) 🧮
-
-VBA Macros for automation 📝
-
-Excel formulas and PivotTables 📐
-
-Conditional formatting and charts for visualization 🎨
-
-How to Use 🚀
+**How to Use 🚀
 Prepare your sales data: Ensure your raw sales data is in the specified format (see the Data Format section). 🗂️
 
 Import Data: Use the "Import Data" button in the Excel workbook to load your sales records. 🔄
