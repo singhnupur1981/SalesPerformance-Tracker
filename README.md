@@ -95,8 +95,8 @@ Customize settings (e.g., email recipients, data file paths) in the Settings she
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/youtube-engagement-analytics.git
-cd youtube-engagement-analytics
+git clone https://github.com/your-username/SalesPerformance-Tracker.git
+cd SalesPerformance-Tracker
 
 ## 📬 Contact
 
