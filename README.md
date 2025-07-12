@@ -49,6 +49,8 @@ Excel formulas and PivotTables 📐
 
 Conditional formatting and charts for visualization 🎨
 
+----
+
 ## 🚀 How to Use 
 Prepare your sales data: Ensure your raw sales data is in the specified format (see the Data Format section). 🗂️
 
@@ -59,6 +61,8 @@ Run Automation: Click the "Update Dashboard" button to refresh calculations, cha
 View Reports: Navigate to the dashboard sheet to analyze sales trends and performance metrics. 👀
 
 Export/Share: Export reports as PDF or Excel files, or configure automatic emailing via VBA. 📤
+
+------
 
 ## 📋 Data Format Requirements 
 Date of sale (e.g., MM/DD/YYYY) 📅
@@ -75,6 +79,8 @@ Region or territory (optional) 🌍
 
 Make sure columns are consistently labeled and free from blank rows.
 
+
+--------
 ## 🛠️ Installation 
 Download or clone the repository. 📥
 
@@ -84,14 +90,12 @@ Enable macros when prompted. ⚠️
 
 Customize settings (e.g., email recipients, data file paths) in the Settings sheet. ⚙️
 
+
+---------
+
 ## 🤝 Contributing 
 Contributions and improvements are welcome! Please open an issue or submit a pull request with your enhancements. 💡
 -----
-
-
-
-
-
 
 ## 📬 Contact
 
