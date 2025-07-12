@@ -32,7 +32,7 @@ Excel formulas and PivotTables 📐
 
 Conditional formatting and charts for visualization 🎨
 
-**How to Use 🚀
+##How to Use 🚀
 Prepare your sales data: Ensure your raw sales data is in the specified format (see the Data Format section). 🗂️
 
 Import Data: Use the "Import Data" button in the Excel workbook to load your sales records. 🔄
