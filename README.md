@@ -70,8 +70,6 @@ Customize settings (e.g., email recipients, data file paths) in the Settings she
 ## 🤝 Contributing 
 Contributions and improvements are welcome! Please open an issue or submit a pull request with your enhancements. 💡
 
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📁 Project Structure
 
