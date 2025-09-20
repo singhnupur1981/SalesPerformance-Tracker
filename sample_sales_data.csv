@@ -1,6 +1,0 @@
-Salesperson,Region,Month,Sales ($),Target ($),% to Target,Performance
-Alice,East,Jan 2024,15000,12000,1.25,Top
-Bob,West,Jan 2024,9500,10000,0.95,At Risk
-Charlie,East,Jan 2024,12000,11000,1.09,Good
-Diana,South,Feb 2024,14500,14000,1.04,Good
-Evan,North,Feb 2024,8700,9000,0.97,At Risk
