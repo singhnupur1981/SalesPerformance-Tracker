@@ -52,7 +52,8 @@ When entering data in the **Raw Data** sheet, follow this structure:
 1. **Enter Data in `Raw Data` Sheet**  
    - Input **Salesperson, Region, Month, Sales, and Target values**.  
    - `% to Target` and **Performance** will be calculated automatically.  
-   - Run the included **macros** to refresh the dashboard and summary.  
+   - Run the included **macros** to refresh the dashboard and summary.
+   - Also, includes a button if triggered then automatcally sends emails if the % to Target is below 60%
 
 2. **Check the `Summary` Sheet**  
    - Shows aggregated results like **Sales Count by Region**.  
