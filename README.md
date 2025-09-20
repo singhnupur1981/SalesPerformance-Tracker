@@ -1,5 +1,5 @@
 
-# 📊 Sales Performance Tracker (Excel + Macros)
+# 📊 Sales Performance Tracker (Excel + Macros+Integration to Outlook)
 
 This project is an Excel-based tracker with formulas, macros, and dashboards for monitoring sales performance against targets.  
 
