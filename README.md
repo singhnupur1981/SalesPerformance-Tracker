@@ -56,7 +56,7 @@ When entering data in the **Raw Data** sheet, follow this structure:
    - Also, includes a button if triggered then automatcally sends emails if the % to Target is below 60%
 
 2. **Check the `Summary` Sheet**  
-   - Shows Sales Performance summaries to show the distribution by performance, performance breakdown, Top performer, Top Region and Lowest performer, Average% to Target and Region Analysis. 
+   - Shows Sales Performance summaries to show the distribution by performance, performance breakdown, Top performer, Top Region and Lowest performer, Average% to Target and Region Analysis. Automatically creates this sheet when the button from Raw data sheet is triggered.
 
 3. **Explore the `Dashboard` Sheet**  
    - Interactive charts and visuals update automatically after macros are refreshed through the button.
