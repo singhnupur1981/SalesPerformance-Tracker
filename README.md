@@ -61,7 +61,7 @@ When entering data in the **Raw Data** sheet, follow this structure:
 3. **Explore the `Dashboard` Sheet**  
    - Interactive charts and visuals update automatically after macros are refreshed through the button.
 
-4. **Settings & Instructions**  
+4. **Sales Alert emails***  
    - Use the `Settings` tab to update thresholds or business rules. Purpose: IT sends an Outlook email to the isalesperson or manager with a simple alert message if threshold is crossed.
    - `Macro Instructions` tab explains how to run/update macros.  
 
