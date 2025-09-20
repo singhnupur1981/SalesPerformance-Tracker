@@ -3,6 +3,17 @@
 
 This project is an Excel-based tracker with formulas, macros, and dashboards for monitoring sales performance against targets.  
 
+## 📘 Project Summary  
+
+The **Sales Performance Tracker** is an Excel-based tool with formulas, macros, and dashboards designed to measure sales against targets.  
+
+- ✅ Automates performance calculations (% to Target)  
+- 📊 Provides summaries by region and salesperson  
+- 📈 Includes an interactive dashboard for quick insights  
+- ⚙️ Customizable thresholds through settings  
+- 🔄 Macros for refreshing data and visuals  
+
+This tracker helps teams monitor sales activity, identify gaps, and make data-driven decisions efficiently.  
 ---
 
 ## 🚀 How to Use  
