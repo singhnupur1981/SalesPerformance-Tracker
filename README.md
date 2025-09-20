@@ -16,25 +16,6 @@ The **Sales Performance Tracker** is an Excel-based tool with formulas, macros, 
 This tracker helps teams monitor sales activity, identify gaps, and make data-driven decisions efficiently.  
 ---
 
-## 🚀 How to Use  
-
-1. **Enter Data in `Raw Data` Sheet**  
-   - Input **Salesperson, Region, Month, Sales, and Target values**.  
-   - `% to Target` and **Performance** will be calculated automatically.  
-   - Run the included **macros** to refresh the dashboard and summary.  
-
-2. **Check the `Summary` Sheet**  
-   - Shows aggregated results like **Sales Count by Region**.  
-
-3. **Explore the `Dashboard` Sheet**  
-   - Interactive charts and visuals update automatically after macros are refreshed.  
-
-4. **Settings & Instructions**  
-   - Use the `Settings` tab to update thresholds or business rules.  
-   - `Macro Instructions` tab explains how to run/update macros.  
-
----
-
 ## 📑 Data Format Requirements  
 
 When entering data in the **Raw Data** sheet, follow this structure:  
@@ -62,3 +43,27 @@ When entering data in the **Raw Data** sheet, follow this structure:
 - Interactive **dashboard** with charts.  
 - Configurable **thresholds** via Settings.  
 - **Macros** for automated refresh. 
+
+
+
+
+## 🚀 How to Use  
+
+1. **Enter Data in `Raw Data` Sheet**  
+   - Input **Salesperson, Region, Month, Sales, and Target values**.  
+   - `% to Target` and **Performance** will be calculated automatically.  
+   - Run the included **macros** to refresh the dashboard and summary.  
+
+2. **Check the `Summary` Sheet**  
+   - Shows aggregated results like **Sales Count by Region**.  
+
+3. **Explore the `Dashboard` Sheet**  
+   - Interactive charts and visuals update automatically after macros are refreshed.  
+
+4. **Settings & Instructions**  
+   - Use the `Settings` tab to update thresholds or business rules.  
+   - `Macro Instructions` tab explains how to run/update macros.  
+
+---
+
+
