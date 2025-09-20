@@ -41,7 +41,7 @@ When entering data in the **Raw Data** sheet, follow this structure:
 - Automated **performance calculation** (% to target).  
 - Performance **summaries** page generated on click of a button from the raw data page.
 - Interactive **dashboard**
-- Email sales alerts for individual sales person or managers/ 
+- Email sales alerts for individual sales person or managers.
 - **Macros** for automated refresh. 
 
 
