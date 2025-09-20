@@ -39,9 +39,9 @@ When entering data in the **Raw Data** sheet, follow this structure:
 ## 🛠 Features  
 
 - Automated **performance calculation** (% to target).  
-- Region-wise **summaries**.  
+- Performance **summaries**.  
 - Interactive **dashboard** with charts.  
-- Configurable **thresholds** via Settings.  
+- Email sales alerts for individual sales person or managers/ 
 - **Macros** for automated refresh. 
 
 
@@ -56,13 +56,13 @@ When entering data in the **Raw Data** sheet, follow this structure:
    - Also, includes a button if triggered then automatcally sends emails if the % to Target is below 60%
 
 2. **Check the `Summary` Sheet**  
-   - Shows aggregated results like **Sales Count by Region**.  
+   - Shows Sales Performance summaries to show the distribution by performance, performance breakdown, Top performer, Top Region and Lowest performer, Average% to Target and Region Analysis. 
 
 3. **Explore the `Dashboard` Sheet**  
    - Interactive charts and visuals update automatically after macros are refreshed through the button.
 
 4. **Settings & Instructions**  
-   - Use the `Settings` tab to update thresholds or business rules. Purpose: IT sends an Outlook email to the manager with a simple alert message.
+   - Use the `Settings` tab to update thresholds or business rules. Purpose: IT sends an Outlook email to the isalesperson or manager with a simple alert message if threshold is crossed.
    - `Macro Instructions` tab explains how to run/update macros.  
 
 ---
