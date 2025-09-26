@@ -34,12 +34,6 @@ The workbook uses **macros to automate repetitive tasks**, which streamlines the
 
 ---
 
-## 🤝 Contribution  
-This is a **personal project** for tracking sales performance.  
-Contributions are not currently being accepted.  
-
----
-
 ## 📬 Contact  
 For questions, please reach out:  
-**[Your Name]** ✉️ **[Your Email Address]**  
+**Nupur Singh** ✉️ **singh.nupur250@gmail.com**  
