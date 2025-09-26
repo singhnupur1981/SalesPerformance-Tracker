@@ -12,7 +12,7 @@ The workbook uses **macros to automate repetitive tasks**, which streamlines the
 - 🗂 **Multi-Sheet Structure**: Organized with three worksheets to separate raw data, analysis, and dashboards.  
 - 📉 **Data Visualization**: Includes combo charts, line charts, and other visuals for quick insights.  
 - 📋 **Data Tables**: Structured in tables for clarity and easy filtering.  
-- 🔗 **External Data Integration**: Connects to at least one external data source for real-time updates.  
+- 
 
 ---
 
